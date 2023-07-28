@@ -1,7 +1,7 @@
 # Autobots
 
 The BSD terminal game
-[`robots`](https://en.wikipedia.org/wiki/Chase_(video_game))
+[robots](https://en.wikipedia.org/wiki/Chase_(video_game))
 is a turn based single player game.
 `autobots` is an expert system that plays `robots`.
 
